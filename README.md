@@ -7,11 +7,16 @@ Takım Flutter 100
 
 Takım Elemanları
 
-Berk Can Özdemir: Scrum Master /
+Berk Can Özdemir: Scrum Master
+
 Özlem Göksu: Product Owner
+
 Ali Kağan Bertizlioğlu: Developer
+
 Petek Pişmiş : Developer
+
 Selin Aydın : Aktif olmayan üye
+
 
 
 Ürün İsmi
