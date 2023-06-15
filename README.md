@@ -53,3 +53,6 @@ Sprint içinde tamamlanması tahmin edilen puan: 30 Puan
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 30 ile başlaması gerektiğine karar verildi.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. 
+
+![Troller](https://github.com/F-100Project2023/F-100/assets/136380379/7e6d9999-6c25-4774-98c4-4d7a842a0fe4)
+
