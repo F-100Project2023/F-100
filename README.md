@@ -60,6 +60,10 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 
 Sprint 2
 
+Sprint Notu: 
+
+Yoğunluk ve bayram durumundan kaynaklı grup içerisinde iletişim eksikliği olmasına rağmen, alınan ortak kararlar ile uygulamanın nasıl yapılmasına dair görüşleri ortak noktada buluşması ile bir karara varılmış ve uygulama konusunda daha net bir görüş ve net bir plan oluşturulmuştur. Sprint toplantıları geç yapılmasına rağmen verimli geçmiştir. Bir sonraki sprint toplantısı için net tarihler belirlenmiş ve daha düzenli çalışılması konusunda vurgu yapılmıştır. 2.Sprintte uygulamanın temeli hakkında ilerleme kaydedilmiş ve program akışı sağlanmıştır.
+
 Sprint içinde tamamlanması tahmin edilen puan: 30 Puan
 
 Puan tamamlama mantığı: 
