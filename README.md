@@ -74,6 +74,8 @@ Grup üyelerinin yoğun bir programı olmasından kaynaklı iletişim kopukluğu
 
 ![Daily Scrum Wp konuşması](https://github.com/F-100Project2023/F-100/assets/136380379/7d7fb9bb-125d-479d-87c1-49e07b7b1abf)
 
+![dc 2 sprint daily scrum](https://github.com/F-100Project2023/F-100/assets/136380379/6a0b6cdd-a941-4a0f-ac07-1bab9b437c65)
+
 
 Sprint board update:
 
