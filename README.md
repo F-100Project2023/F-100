@@ -56,3 +56,38 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 
 ![Troller](https://github.com/F-100Project2023/F-100/assets/136380379/7e6d9999-6c25-4774-98c4-4d7a842a0fe4)
 
+
+
+Sprint 2
+
+Sprint içinde tamamlanması tahmin edilen puan: 30 Puan
+
+Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk ve ikinci sprint'in ara sprintler ve gidişat takibi olmasından kaynaklı 30 puan olması gerektiğine karar verildi.
+
+Daily Scrum:
+Grup üyelerinin yoğun bir programı olmasından kaynaklı iletişim kopukluğu yaşanmıştır. Bu durumun önünce geçilmesi için whatsapp üzeriden iletişime geçilmiş ve discord üzerinden Daily Scrum toplantıları yapılmıştır. Screenshotlar tarafımızca eklenmiştir.
+
+![Daily Scrum Wp konuşması](https://github.com/F-100Project2023/F-100/assets/136380379/7d7fb9bb-125d-479d-87c1-49e07b7b1abf)
+
+
+Sprint board update:
+
+![Trello sprint 2](https://github.com/F-100Project2023/F-100/assets/136380379/921c8808-932d-45f2-962e-ed15547470bc)
+
+
+Ürün Durumu: Şu an için ekleyemedik fakat çalışmalarımız sürüyor.
+
+Sprint Review: 
+
+Alınan kararlar: 
+
+*İşaret dili olarak alfabeyi koymaya karar verilmiş ve hoş geldin ekranının tamamlanması kararına verilmiştir. 
+
+*İlk sprintte alınan Kartları doğru seçtikçe zorluk seviyesinin artması ve Kartları doğru seçtikçe zorlaşması için veri oluşturulması fikirleri iptal edilmiş ve temel bir alfabe düzeni eklemeye karar verilmiştir. 
+
+*Sprint Review katılımcıları: Berk Can Özdemir, Özlem Göksu, Ali Kağan Bertizlioğlu, Petek Pişmiş.
+
+Sprint Retrospective:
+
+Grup üyelerinin daha aktif olmasına ve zaman yönetiminin daha iyi yapılması konusuna vurgu yapılmış ve gidişat konusunda daha verimli bir çalışma gerçekleşmesi yönünde karara varılmıştır.
