@@ -101,3 +101,50 @@ Alınan kararlar:
 Sprint Retrospective:
 
 Grup üyelerinin daha aktif olmasına ve zaman yönetiminin daha iyi yapılması konusuna vurgu yapılmış ve gidişat konusunda daha verimli bir çalışma gerçekleşmesi yönünde karara varılmıştır.
+
+
+
+Sprint 3
+
+
+Sprint Notu:
+
+Kodumuzda yaşadığımız android studio versiyon probleminden dolayı maalesef kodumuzda ilerleyemedik. Bu süreci yaşadıktan sonra maalesef takım arkadaşlarım mesajlarıma ve çağrılarıma cevap vermediği için tek scrum master olarak tek başıma kaldım. Çok az bir zaman olduğu için de elimden gelenin en iyisini yaparak bir hesap makinesi uygulaması yazmaya karar verdim ve yazdım. 3.sprintte takım maalesef dağılmış ve scrum master olarak tek başıma bir uygulama yazarak hem Google Oyun ve Uygulama Akademisini, hem de bu zevkli ve heyecanlı süreci tamamlamış bulunuyorum.
+
+Sprint içinde tamamlanması tahmin edilen puan: 40 Puan
+
+Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint en önemli ve son sprint olduğu için 40 puan olmasına karar verilmiştir.
+
+Daily Scrum:
+Grup üyeleri ile birlitke yaşadığımız android studio hatası sonucu son bir kez toplanıldı ve ondan sonrasında cevap vermemeleri sonucu tek başıma kaldım fakat son toplantı ve sonrası eklenmiştir.
+
+![DC 3 Sprint daily scrum](https://github.com/F-100Project2023/F-100/assets/136380379/062e507b-062f-4a36-917e-7556ac132b45)
+
+![DC 3 Sprint daily scrum ve yalnızlık](https://github.com/F-100Project2023/F-100/assets/136380379/5259bfc2-8105-40b0-a4a6-6616015b67a4)
+
+
+Sprint board update:
+
+
+![Trello berk_hesapmakinesi](https://github.com/F-100Project2023/F-100/assets/136380379/ce8782f9-5464-484c-a676-5acb23da8a2b)
+
+
+Ürün Durumu:
+
+![Ürün kod durumu](https://github.com/F-100Project2023/F-100/assets/136380379/5b5bb989-35e7-47ad-b877-406d57e6f41b)
+
+![Ürün uygulama durumu](https://github.com/F-100Project2023/F-100/assets/136380379/cda84c9c-eec2-4bcd-87f7-f347cf2a441d)
+
+
+Sprint Review: 
+
+Alınan kararlar: 
+
+*SignCardApp uygulaması iptal edildi. 
+
+*Sprint Review katılımcıları: Berk Can Özdemir
+
+Sprint Retrospective:
+
+Yaşanılan teknik sorun sonrası grup üyelerinin hiç aktif olmaması ile beraber scrum master olarak kısa sürede yapabileceğim en iyi şekilde bir uygulama yazdım. Google Oyun ve Uygulama Akademisinen mezun olmayı çok istiyorum.
